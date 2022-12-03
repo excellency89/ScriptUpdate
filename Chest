@@ -106,4 +106,4 @@ spawn(function()
    firetouchinterest(game.Players.LocalPlayer.Character.HumanoidRootPart, v.Parent, 1) -- 1 is untouch
    end
    end
-  end)
+  end
